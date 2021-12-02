@@ -152,5 +152,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://spectacular-yam-912c6.netlify.app"
 }
